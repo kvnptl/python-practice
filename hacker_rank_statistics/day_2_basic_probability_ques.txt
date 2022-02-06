@@ -1,0 +1,4 @@
+Helpful link for answer explanation: 
+
+HackerRank Statistics Day 2: Probabilities
+Link: https://coders-errand.com/hackerrank-statistics-day-2-probabilities/#:~:text=For%20example%2C%20if%20the%20first,at%20most%20equal%20to%209.&text=The%20result%20is%20then%2030%2F36%20%3D%205%2F6.&text=Task-,In%20a%20single%20toss%20of%202%20fair%20(evenly%2Dweighted),have%20a%20sum%20of%206.
