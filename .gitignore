@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+machine_learning/yolov5/test
+machine_learning/yolov5/train
+machine_learning/yolov5/valid
