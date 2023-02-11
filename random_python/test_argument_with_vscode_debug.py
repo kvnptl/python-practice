@@ -1,4 +1,30 @@
 
+'''
+
+JSON file content:
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["--name", "David", "--age", "10"],
+            "purpose": ["debug-in-terminal"]
+        }
+    ]
+}
+
+'''
+
+
 # take argument from terminal using argparse
 import argparse
 

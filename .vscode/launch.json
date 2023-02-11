@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["--name", "David", "--age", "10"],
+            // "args": ["--name", "David", "--age", "10"],
             "purpose": ["debug-in-terminal"]
         }
     ]
